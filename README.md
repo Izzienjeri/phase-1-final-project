@@ -24,12 +24,12 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/purrfectpaws.git
+git clone https://github.com/Izzienjeri/phase-1-final-project/tree/main
 Navigate to the project folder:
 
 bash
 Copy code
-cd purrfectpaws
+cd directory
 Install dependencies:
 
 bash
@@ -50,6 +50,6 @@ Contributing
 We welcome contributions to PurrFectPaws. If you'd like to contribute, please follow our contributing guidelines.
 
 License
-This project is licensed under the MIT License.
+Elizabeth Njeri
 
 Enjoy exploring the world of cat breeds on PurrFectPaws! If you have any questions or feedback, feel free to contact us through the website. Happy cat browsing! 🐾
