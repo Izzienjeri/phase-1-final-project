@@ -1,5 +1,3 @@
-const { describe } = require("node:test");
-
 // Function to fetch breed data from the server and display the first breed
 function fetchAndDisplayFirstBreed() {
     // GET request to retrieve the first breed data
@@ -23,7 +21,7 @@ function handleBuyMe(breedName, price) {
     // Disable the "Buy Me" button after purchase and change its appearance
     const buyCatButton = document.getElementById('buy-cat');
     buyCatButton.disabled = true;
-    buyCatButton.classList.add('disabled-button'); 
+    buyCatButton.classList.add('disabled-button'); // Add the disabled style
 }
 
 function displayBreedDetails(data) {
@@ -60,7 +58,7 @@ function populateBreedMenu() {
             });
         })
         .catch(error => {
-            console.error('Error fetching breed menu data:', error);
+            console.error('Error fetching breed menu data:', "error");
         });
 }
 
