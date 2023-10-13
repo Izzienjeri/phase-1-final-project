@@ -68,7 +68,7 @@ function handleBreedSelection(breedId) {
     fetch(`http://localhost:3000/cats/${breedId}`)
         .then(response => response.json())
         .then(data => {
-            // Update HTML elements with the selected breed's details
+            // Update HTML elements with  selected breed's details
             document.getElementById('picture').src = data.picture;
             document.getElementById('Breed-name').textContent = data.name;
             document.getElementById('price').textContent = `Price: $${data.price}`;
