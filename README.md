@@ -10,8 +10,7 @@ Buy Cat: If you fall in love with a particular breed, you can easily purchase on
 Interactive Breed Menu: A dynamic list of cat breeds to choose from, making it easy to explore and compare.
 Contact Us: Get in touch with us via email or phone, or send us a message for any inquiries.
 Responsive Design: The website is designed to work seamlessly on various devices and screen sizes.
-Demo
-You can experience PurrFectPaws by visiting www.purrfectpaws.com.
+
 
 **Getting Started**
 To run this website locally for development or testing purposes, follow these steps:
